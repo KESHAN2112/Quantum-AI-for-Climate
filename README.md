@@ -34,21 +34,21 @@ Ensure your repository does not contain any personal or team tokens/access infor
 ### Team Information:
 Team Member 1:
  - Full Name: Keshan Srivastava
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-xefz4vifUzhTFkb
+ - Womanium Program Enrollment ID: WQ24-xefz4vifUzhTFkb
 
 Team Member 2:
  - Full Name: Sunil Pattnayak
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-SszmQAzlhnsGyYM
+ - Womanium Program Enrollment ID: WQ24-SszmQAzlhnsGyYM
 
 
 Team Member 3:
  - Full Name: Shreya Modi
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Womanium Program Enrollment ID:
 
 
 Team Member 4:
  - Full Name: Astha Raghuwanshi 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Womanium Program Enrollment ID:
 
 
 ### Project Solution:
